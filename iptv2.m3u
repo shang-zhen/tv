@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:央视
 #EXTINF:-1 ,CCTV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000001/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -23,6 +24,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000014/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
 #EXTINF:-1 ,CGTN
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+#EXTGRP:卫视
 #EXTINF:-1 ,东南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000028/index.m3u8
 #EXTINF:-1 ,东方卫视
@@ -89,10 +91,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
 #EXTINF:-1 ,厦门卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
-#EXTINF:-1 ,中国教育1
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
-#EXTINF:-1 ,中国教育2
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTGRP:山东台
 #EXTINF:-1 ,山东齐鲁
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
 #EXTINF:-1 ,山东体育
@@ -101,8 +100,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000057/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
 #EXTINF:-1 ,山东农科
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000058/index.m3u8
-#EXTINF:-1 ,山东少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
+#EXTGRP:卡通
 #EXTINF:-1 ,上海哈哈炫动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 #EXTINF:-1 ,北京卡酷少儿
@@ -113,10 +111,20 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 ,湖南金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 ,山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
 #EXTINF:-1 ,济南少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTGRP:特色
 #EXTINF:-1 ,SiTV都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
+#EXTINF:-1 ,中国教育1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 ,中国教育2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1 ,书画
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8
+#EXTGRP:地方
 #EXTINF:-1 ,济南娱乐
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
 #EXTINF:-1 ,济南文旅体育
@@ -133,5 +141,5 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 #EXTINF:-1 ,泰安综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
-#EXTINF:-1 ,书画
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000651/index.m3u8
+#EXTINF:-1 ,肥城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
