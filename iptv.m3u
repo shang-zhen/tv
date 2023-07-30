@@ -25,7 +25,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
 #EXTINF:-1 ,CCTV9
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1 ,CCTV10
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 ,CCTV11
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
 #EXTINF:-1 ,CCTV12
