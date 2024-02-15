@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP:央视
 #EXTINF:-1 ,CCTV1
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+http://39.137.76.32:8089/00/SNM/CHANNEL00000001/index.m3u8
 #EXTINF:-1 ,CCTV2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 ,CCTV3
