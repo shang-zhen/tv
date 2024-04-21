@@ -40,18 +40,6 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/ddys.js"
 		},
-	
-		{
-			"key": "光棍影视",
-			"name": "🚶光棍影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/光棍影视.json"
-
-		},
 		{
 			"key": "看剧吧",
 			"name": "看剧吧",
@@ -61,16 +49,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/看剧吧.json"
-		},
-		{
-			"key": "追剧TU",
-			"name": "🐰追剧TU",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/追剧TU.json"
 		},
 		{
 			"key": "米爱影视",
