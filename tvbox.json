@@ -388,16 +388,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/大豆高清.json"
 		},
-		{
-			"key": "555",
-			"name": "🤩555 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/555.json"
-		},
+	
 		{
 			"key": "美剧天堂",
 			"name": "🤩美剧天堂",
