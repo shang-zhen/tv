@@ -1,6 +1,25 @@
 {
 	"spider": "./HeChengChaXiu.jar",
 	"sites": [
+		{
+			"key": "drpy_js_360影视",
+			"name": "😈心魔自用😈 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/360影视.js"
+		},
+	
+		
+		{
+			"key": "熊猫影视",
+			"name": "🐼熊猫影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/熊猫影视.json"
+		},
 
 		{
 			"key": "6080",
@@ -11,6 +30,17 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/6080.json"
+		},
+	
+		{
+			"key": "四个圈影视",
+			"name": "🚗四个圈影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/四个圈影视.json"
 		},
 		{
 			"key": "饭团",
@@ -29,6 +59,18 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/ddys.js"
 		},
+	
+		{
+			"key": "光棍影视",
+			"name": "🚶光棍影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/光棍影视.json"
+
+		},
 		{
 			"key": "看剧吧",
 			"name": "看剧吧",
@@ -38,6 +80,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/看剧吧.json"
+		},
+		{
+			"key": "追剧TU",
+			"name": "🐰追剧TU",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/追剧TU.json"
 		},
 		{
 			"key": "米爱影视",
@@ -377,7 +429,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/大豆高清.json"
 		},
-	
+		{
+			"key": "555",
+			"name": "🤩555 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/555.json"
+		},
 		{
 			"key": "美剧天堂",
 			"name": "🤩美剧天堂",
@@ -1829,6 +1890,13 @@
 			"ext": "https://www.69mj.com/xgapp.php/v2/"
 		},
 		{
+			"key": "drpy_js_菜狗",
+			"name": "官源 | 搜狗 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/菜狗.js"
+		},
+		{
 			"key": "drpy_js_蜻蜓FM",
 			"name": "广播 | 蜻蜓FM ",
 			"type": 3,
@@ -1922,13 +1990,48 @@
 			"type": 3,
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/异世界动漫.js"
+		},
+		{
+			"key": "drpy_js_奇珍异兽",
+			"name": "官源 | 爱奇艺 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/奇珍异兽.js"
+		},
+		{
+			"key": "drpy_js_优酷",
+			"name": "官源 | 优酷 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/优酷.js"
+		},
+		{
+			"key": "drpy_js_百忙无果",
+			"name": "官源 | 芒果",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/百忙无果.js"
+		},
+		{
+			"key": "drpy_js_腾云驾雾",
+			"name": "官源 | 腾讯 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/腾云驾雾.js"
+		},
+		{
+			"key": "push_agent",
+			"name": "阿里 | 推送",
+			"type": 3,
+			"api": "csp_Push",
+			"ext": "./dr/lib/token.txt"
 		}
 	],
 	"lives": [
 		{
 			"name": "心魔",
 			"type": 0,
-			"url": "https://pro.qiwu.eu.org/https://raw.githubusercontent.com/shang-zhen/tv/main/live.txt"
+			"url": "https://raw.gitmirror.com/yw88075/tvbox/main/live.txt"
 		}
 	],
 	"parses": [
@@ -1999,6 +2102,8 @@
 			"name": "bl解析",
 			"type": 0,
 			"url": "https://vip.bljiex.com/?v="
+			
+			
 		},
 		{
 			"name": "777",
@@ -2363,5 +2468,6 @@
 		"iqiyi.hbuioo.com",
 		"vip.ffzyad.com",
 		"https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-	]
+	],
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
